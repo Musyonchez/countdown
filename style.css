@@ -1,0 +1,63 @@
+body {
+    background-image: url('images/snow.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.count-countainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.count-items {
+    text-align: center;
+    font-weight: bold;
+    font-size: 4rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+}
+
+.count-days {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+
+}
+
+.count-hours {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+
+
+}
+
+.count-mins {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+
+
+}
+
+.count-secs {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+
+
+}
+
+.count-milliesecs {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: bold;
+
+
+}
+
+h1 {
+    text-align: center;
+}
